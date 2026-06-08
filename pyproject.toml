@@ -1,0 +1,17 @@
+[project]
+name = "spatial-cimis-eto"
+version = "0.1.0"
+description = "Extract time series reference evapotranspiration data from Spatial CIMIS."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "requests",
+    "rasterio",
+    "geopandas",
+    "xarray",
+    "numpy",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
