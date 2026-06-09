@@ -10,6 +10,8 @@ Requires-Dist: numpy>=1.22.0
 Requires-Dist: rasterio>=1.3.0
 Requires-Dist: pyproj>=3.4.0
 Requires-Dist: matplotlib>=3.6.0
+Requires-Dist: xarray>=2022.09.0
+Requires-Dist: netCDF4>=1.6.0
 Dynamic: license-file
 
 >_Once you open the CIMIS website, you can quickly check data from the nearest station. If that is not enough for your farm or study site, this repository based on the **spatial CIMIS** dataset gives you another option._
