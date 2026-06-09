@@ -14,8 +14,9 @@ pip install "git+https://github.com/RuiGao9/pyscimis.git"
 
 ## How to Use This Repository for Data Downloading
 
+
 ## Citation
-Gao, R., Safeeq, M., Viers, J.H. (2026). pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset (Version 0.1.0). Zenodo. 
+Gao, R., Safeeq, M., Viers, J.H. (2026). pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset (Version Initial). Zenodo. https://doi.org/10.5281/zenodo.20603074
 
 ## Repository update information
 - Creation date: 2026-06-08
