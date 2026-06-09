@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/spatial_cimis_eto.egg-info/PKG-INFO
+src/spatial_cimis_eto.egg-info/SOURCES.txt
+src/spatial_cimis_eto.egg-info/dependency_links.txt
+src/spatial_cimis_eto.egg-info/requires.txt
+src/spatial_cimis_eto.egg-info/top_level.txt

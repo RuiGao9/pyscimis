@@ -1,7 +1,7 @@
 [project]
 name = "spatial-cimis-eto"
 version = "0.1.0"
-description = "Extract time series reference evapotranspiration data from Spatial CIMIS."
+description = "pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
@@ -11,6 +11,7 @@ dependencies = [
     "geopandas",
     "xarray",
     "numpy",
+    "matplotlib",
 ]
 
 [tool.setuptools.packages.find]

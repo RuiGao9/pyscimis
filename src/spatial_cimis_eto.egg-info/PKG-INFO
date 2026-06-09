@@ -1,3 +1,19 @@
+Metadata-Version: 2.4
+Name: spatial-cimis-eto
+Version: 0.1.0
+Summary: Extract time series reference evapotranspiration data from Spatial CIMIS.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: requests
+Requires-Dist: rasterio
+Requires-Dist: geopandas
+Requires-Dist: xarray
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: license-file
+
 >_Once you open the CIMIS website, you can quickly check data from the nearest station. If that is not enough for your farm or study site, this repository based on the **spatial CIMIS** dataset gives you another option._
 
 ## Features
