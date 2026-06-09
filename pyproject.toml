@@ -1,17 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
-name = "spatial-cimis-eto"
+name = "pyscimis"
 version = "0.1.0"
-description = "pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset"
+description = "A localized spatial toolkit to extract time-series variables from Spatial CIMIS ASCII grids with automatic EPSG:3310 projection alignment."
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 dependencies = [
-    "pandas",
-    "requests",
-    "rasterio",
-    "geopandas",
-    "xarray",
-    "numpy",
-    "matplotlib",
+    "pandas>=1.5.0",
+    "numpy>=1.22.0",
+    "rasterio>=1.3.0",
+    "pyproj>=3.4.0",
+    "matplotlib>=3.6.0"
 ]
 
 [tool.setuptools.packages.find]

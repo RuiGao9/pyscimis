@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/pyscimis/__init__.py
+src/pyscimis/_version.py
+src/pyscimis.egg-info/PKG-INFO
+src/pyscimis.egg-info/SOURCES.txt
+src/pyscimis.egg-info/dependency_links.txt
+src/pyscimis.egg-info/requires.txt
+src/pyscimis.egg-info/top_level.txt

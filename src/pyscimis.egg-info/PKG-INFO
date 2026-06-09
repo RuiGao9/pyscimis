@@ -1,0 +1,39 @@
+Metadata-Version: 2.4
+Name: pyscimis
+Version: 0.1.0
+Summary: A localized spatial toolkit to extract time-series variables from Spatial CIMIS ASCII grids with automatic EPSG:3310 projection alignment.
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas>=1.5.0
+Requires-Dist: numpy>=1.22.0
+Requires-Dist: rasterio>=1.3.0
+Requires-Dist: pyproj>=3.4.0
+Requires-Dist: matplotlib>=3.6.0
+Dynamic: license-file
+
+>_Once you open the CIMIS website, you can quickly check data from the nearest station. If that is not enough for your farm or study site, this repository based on the **spatial CIMIS** dataset gives you another option._
+
+## Features
+
+
+## Get an API key
+
+
+## Installation
+```bash
+pip install "git+https://github.com/RuiGao9/pyscimis.git"
+```
+
+## How to Use This Repository for Data Downloading
+
+
+## Citation
+Gao, R., Safeeq, M., Viers, J.H. (2026). pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset (Version Initial). Zenodo. https://doi.org/10.5281/zenodo.20603074
+
+## Repository update information
+- Creation date: 2026-06-08
+- Last update: 2026-06-08
+
+## Contact inforamtion if issues were found
+Rui Gao: Rui.Ray.Gao@gmail.com or RuiGao@UCMerced.edu
