@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="HeaderImage.JPG" width="100%" style="display: block; margin: 0;" />
+  <img src="HeaderImage.JPG" width="100%" style="display: block; margin: 0;" >
 </div>
 
 # How do I get ETo from the spatial CIMIS and one 30-m ETo dataset?
@@ -45,7 +45,7 @@ end_date = "2021-12-31"
 ```
 ## Reference
 Gao, R., Safeeq, M., & Viers, J. H. (2026). California 30-m daily reference evapotranspiration dataset (2020): Version 1.0. Zenodo. https://doi.org/10.5281/zenodo.20388023<br>
-_Note: The 30-m ETo dataset is currently available for 2018–2025. At this time, only the 2020 data have been released online. To request data for other years, please contact Rui using one of the email addresses listed at the end of this document._
+_**Note:** The 30-m ETo dataset is currently available for 2018–2025. At this time, only the 2020 data have been released online. To request data for other years, please contact Rui using one of the email addresses listed at the end of this document._
 
 ## Citation
 Gao, R., Safeeq, M., Viers, J.H. (2026). pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset (Version Initial). Zenodo. https://doi.org/10.5281/zenodo.20603074
