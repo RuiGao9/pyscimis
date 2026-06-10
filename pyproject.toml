@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyscimis"
-version = "0.1.0"
+version = "Initial"
 description = "pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset"
 readme = "README.md"
 requires-python = ">=3.9"
