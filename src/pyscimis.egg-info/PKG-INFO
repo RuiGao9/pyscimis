@@ -1,7 +1,7 @@
 Metadata-Version: 2.4
 Name: pyscimis
 Version: 0.1.0
-Summary: A localized spatial toolkit to extract time-series variables from Spatial CIMIS ASCII grids with automatic EPSG:3310 projection alignment.
+Summary: pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 License-File: LICENSE

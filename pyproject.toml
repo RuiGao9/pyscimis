@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pyscimis"
 version = "0.1.0"
-description = "A localized spatial toolkit to extract time-series variables from Spatial CIMIS ASCII grids with automatic EPSG:3310 projection alignment."
+description = "pyscimis: Automated time-series data extraction tool for spatial CIMIS dataset"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
