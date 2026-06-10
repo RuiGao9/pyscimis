@@ -1,4 +1,4 @@
->_Once you open the CIMIS website, you can quickly check data from the nearest station. If that is not enough for your farm or study site, this repository based on the **spatial CIMIS** dataset gives you another option._
+>_Once you open the CIMIS website (new version), you can quickly check data from the nearest station. If you want to know the ETo at a specific location for a specific time period, you may want to check this repository based on the **spatial CIMIS** dataset.<br> Because we are working on high-resolution ETo, we also provide the corresponding ETo as a reference._
 
 ## Features
 
