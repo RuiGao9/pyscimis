@@ -44,7 +44,13 @@ end_date = "2021-12-31"
 [latitude, longitude] = [37.354999, -120.414366]
 ```
 ## Reference
-Gao, R., Safeeq, M., & Viers, J. H. (2026). California 30-m daily reference evapotranspiration dataset (2020): Version 1.0. Zenodo. https://doi.org/10.5281/zenodo.20388023<br>
+Gao R., Safeeq M., Viers JH. A Python and Shell-based toolkit for spatial CIMIS data acquisition and geospatial preprocessing. Zenodo. 2026. https://doi.org/10.5281/zenodo.19137639<br>
+Gao, R., Safeeq, M., & Viers, JH. A geospatial toolkit for calculating distances to California’s geographic boundaries (v0.1.0). Zenodo. 2026. https://doi.org/10.5281/zenodo.19560836<br>
+Gao, R., Safeeq, M., & Viers, JH. Topographic feature extraction via Python-based TauDEM
+algorithm (v0.1.0). Zenodo. 2026. https://doi.org/10.5281/zenodo.19583013<br>
+Gao R., Safeeq M, Viers JH. A Python Toolkit for Reference Evapotranspiration (ETo) Calculation Directly from Pandas DataFrames (Initial). Zenodo. 2026. https://doi.org/10.5281/zenodo.19197914<br>
+Gao, R., Safeeq, M., & Viers, JH. (2026). California 30-m daily reference evapotranspiration dataset (2020): Version 1.0. Zenodo. https://doi.org/10.5281/zenodo.20388023<br>
+
 _**Note:** The 30-m ETo dataset is currently available for 2018–2025. At this time, only the 2020 data have been released online. To request data for other years, please contact Rui using one of the email addresses listed at the end of this document._
 
 ## Citation
